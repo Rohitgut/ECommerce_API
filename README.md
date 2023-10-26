@@ -1,2 +1,2 @@
 # ECommerce_API
-An CRUD API for ECommerce prodeucts
+An CRUD API for ECommerce products.
